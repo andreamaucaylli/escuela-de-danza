@@ -1,0 +1,196 @@
+/* Sección studio*/
+
+.studio {
+	background: url(../img/dance_1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+
+.studio h2 {
+    font-size: 50px;
+    color: gray;
+    margin-top: 30px;
+}
+
+.studio .boton{
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #020D1E ;
+    border: none;
+    cursor: pointer;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+
+.fondo {
+	background: url(../img/textura_2.jpg);
+	background-size: 40%;
+	background-repeat: repeat;
+	height: 450px;
+}
+.deco {
+	height: 180px;
+	width: 200px;
+}
+.uno {
+	background: url(../img/instructor_4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.dos {
+	background: url(../img/profesor_9.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 400px;
+}
+.mapa {
+	background-color: #192951;
+	height: 500px;
+}
+.zapatilla {
+	background: url(../img/shoes_1.jpg);
+	background-size:  80%;
+	background-repeat:no-repeat;
+	background-position: right;
+	height: 500px;
+}
+
+.formu{
+    margin-bottom: 10px;
+    border-color: #E3E1E1 ;
+    padding: 10px;
+}
+
+#nombre, #email{
+    width: 40%;
+}
+
+#msj{
+    width: 40%;
+    height: 100px;
+}
+.enviar{
+    width: 40%;
+    background-color: #192951 ;
+    color: #FFFFFF ;
+    border-radius: 5px;
+    padding: 10px;
+}
+.pie{
+    background-color: #192951 ;
+    padding: 20px;
+    color: #FFFFFF ;
+    font-size: 12px;
+}
+.contact h2{
+    color: #576380 ;
+    margin-bottom: 30px;
+}
+form{
+    padding-left: 80px;
+}
+footer {
+	background: #192951;
+	color: white;
+	height: 50px;
+}
+
+.fondo p {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 80px;
+}
+.fondo {
+    background: url(../img/textura_2.jpg);
+    background-size: 40%;
+    background-repeat: repeat;
+    height: 400px;
+}
+.fondo .boton {
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #020D1E;
+    border: none;
+    cursor: pointer;
+    margin: 80px;
+    border-radius: 5px;
+}
+.deco {
+    height: 130px;
+    width: 155px;
+    position: relative;
+    left: 270px;
+}
+.uno {
+    background: url(../img/instructor_4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 380px;
+    position: relative;
+}
+.dos {
+    background: url(../img/profesor_9.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 380px;
+    position: relative;
+}
+.teacher .boton {
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #020D1E;
+    border: none;
+    cursor: pointer;
+    margin: 80px;
+    border-radius: 5px;
+}
+.mapa {
+    background-color: #192951;
+    height: 500px;
+}
+.zapato {
+    background: url(../img/shoes_1.jpg);
+    background-size:  80%;
+    background-repeat:no-repeat;
+    background-position: right;
+    height: 500px;
+}
+.inputs{
+    margin-bottom: 10px;
+    border-color: #E3E1E1 ;
+    padding: 10px;
+}
+#nombre, #email{
+    width: 40%;
+}
+#msj{
+    width: 40%;
+    height: 100px;
+}
+.enviar{
+    width: 40%;
+    background-color: #192951 ;
+    color: #FFFFFF ;
+    border-radius: 5px;
+    padding: 10px;
+}
+.pie{
+    background-color: #192951 ;
+    padding: 20px;
+    color: #FFFFFF ;
+    font-size: 12px;
+}
+.contact h2{
+    color: #576380 ;
+    margin-bottom: 30px;
+}
+form{
+    padding-left: 80px;
+}
+footer {
+    background: #192951;
+    color: white;
+    height: 50px;
+}

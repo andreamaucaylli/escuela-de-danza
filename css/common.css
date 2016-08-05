@@ -1,0 +1,87 @@
+/*header*/
+
+.title{
+	font-size: 30px;
+}
+
+nav a {
+	color: rgba(25, 41, 81, 0.56);
+   	padding: 30px;
+}
+
+a{
+	padding: 30px;
+	color: black;
+}
+
+.boton{
+	color: #fff;
+	background-color: #020D1E;
+	border: none;
+	cursor: pointer;
+}
+
+.boton:hover{
+	background-color: rgba(26, 41, 81, 0.7);
+}
+
+.formulario{
+	align-items: all;
+}
+
+button{
+	background-color: ;
+	color: white;
+	padding: 15px;
+}
+
+.contacto{
+	background:url(../img/shoes_1.jpg)no-repeat;
+	height: 500px;
+	background-position: right;
+}
+
+.entrada{
+	background: url(http://rexkirby.com/kirbyandson/images/name.svg)no-repeat scroll 0 0 transparent;
+	width:70%;
+	height: 35px;
+	background-size:10% 70%;
+	background-position:5px;
+	border: 1px solid #D8D8D8;	
+	padding-left: 10%;
+}
+
+#email{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+}
+
+textarea{
+	width: 70%;
+	padding-left: 10%;
+	padding-top: 8px;
+	background: url(http://rexkirby.com/kirbyandson/images/comment.svg)no-repeat scroll 0 0 transparent;
+	background-size: 5% 20%;
+	background-position:16px 5px;
+}
+
+.contacto {
+	padding-top: 40px;
+}
+
+.contacto button{
+	width: 70%;
+}
+
+.mensaje p{
+	margin-top: 20px;
+}
+
+.titulo_contacto{
+	padding-left: 15%;
+}
+
+footer{
+	color: white;
+	padding: 20px;
+	background-color: ;
+}
